@@ -32,7 +32,7 @@ body {
 .backgroundTopo {
     width: 100%;
     height: auto;
-    background: url(fundo_roxo.jpg);
+    background: url(./imagens/fundo_roxo.jpg);
 }
 #img {
     width: 400px;
