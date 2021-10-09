@@ -126,6 +126,8 @@ main {
 }
 #titulo_help {
     color: #ffffff;
+    font-size: 5em;
+    font-style: italic;
 }
 #legenda {
     color: #ffffff;
